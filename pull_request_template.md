@@ -3,7 +3,7 @@
 
 - [ ] Frontend
 - [ ] Backens
-- [ ] COnfiguración del server
+- [ ] Configuración del server
 
 # ¿Cómo puedo probar los cambios?
 
